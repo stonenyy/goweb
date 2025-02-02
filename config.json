@@ -1,0 +1,8 @@
+{
+	"CertFile":     "/path/domain.crt",
+	"KeyFile":      "/path/domain.key",
+	"LogFile":      "/var/log/goweb_logfile",
+	"RpAddr":       "http://127.0.0.1:1080",
+	"RpPath":       "/path",
+	"CfHeader":     ""
+}
